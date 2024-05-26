@@ -1,0 +1,18 @@
+finish documentation
+
+potential future enhancements: automation of reordering system hence the capture of email addresses at signup
+
+add comments
+done:
+    database
+    menu module
+    user module
+    mainline
+    customer module
+    item module
+    purchaseorder module
+    saleorder
+
+to do:
+    stock
+    supplier
